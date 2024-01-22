@@ -9,10 +9,13 @@ PCA, SVD.
 
 Boston dataset:
 * https://openml.org/search?type=data&status=any&id=43465&sort=runs
+  
 Credit card fraud detection: 
 * https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+  
 Temperature dataset:
 * https://berkeleyearth.org/data/
+  
 Online News Popularity Data Set (UC Irvine):
 * https://archive.ics.uci.edu/dataset/332/online+news+popularity
 
